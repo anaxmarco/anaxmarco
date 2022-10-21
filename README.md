@@ -1,0 +1,4 @@
+- 👋 olá stalker, nos somos ana e marco!
+- 💞️ estamos interessados em aprender novas linguagens.
+- 🌱 estamos aprendendo recentemente as linguagens de JavaScript e Scratch.
+- 📫 tchau stalker, saia do nosso perfil :)
